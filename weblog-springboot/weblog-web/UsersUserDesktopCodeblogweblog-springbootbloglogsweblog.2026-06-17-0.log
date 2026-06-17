@@ -1,0 +1,14 @@
+2026-06-17 18:08:25.775 [main] INFO  com.alex.weblog.web.WeblogWebApplicationTests - Starting WeblogWebApplicationTests using Java 1.8.0_491 on WIN-9QENC714CN2 with PID 22260 (started by User in C:\Users\User\Desktop\Code\blog\weblog-springboot\weblog-web)
+2026-06-17 18:08:25.775 [main] INFO  com.alex.weblog.web.WeblogWebApplicationTests - The following profiles are active: prod
+2026-06-17 18:08:26.421 [main] INFO  com.alex.weblog.web.WeblogWebApplicationTests - Started WeblogWebApplicationTests in 0.875 seconds (JVM running for 1.374)
+2026-06-17 18:08:26.516 [main] INFO  com.alex.weblog.web.WeblogWebApplicationTests - 这是一行 Info 级别日志
+2026-06-17 18:08:26.516 [main] WARN  com.alex.weblog.web.WeblogWebApplicationTests - 这是一行 Warn 级别日志
+2026-06-17 18:08:26.516 [main] ERROR com.alex.weblog.web.WeblogWebApplicationTests - 这是一行 Error 级别日志
+2026-06-17 18:08:26.516 [main] INFO  com.alex.weblog.web.WeblogWebApplicationTests - 这是一行带有占位符日志，作者：犬小哈
+2026-06-17 18:14:10.485 [main] INFO  com.alex.weblog.web.WeblogWebApplicationTests - Starting WeblogWebApplicationTests using Java 1.8.0_491 on WIN-9QENC714CN2 with PID 21808 (started by User in C:\Users\User\Desktop\Code\blog\weblog-springboot\weblog-web)
+2026-06-17 18:14:10.485 [main] INFO  com.alex.weblog.web.WeblogWebApplicationTests - The following profiles are active: prod
+2026-06-17 18:14:11.110 [main] INFO  com.alex.weblog.web.WeblogWebApplicationTests - Started WeblogWebApplicationTests in 0.859 seconds (JVM running for 1.402)
+2026-06-17 18:14:11.205 [main] INFO  com.alex.weblog.web.WeblogWebApplicationTests - 这是一行 Info 级别日志
+2026-06-17 18:14:11.205 [main] WARN  com.alex.weblog.web.WeblogWebApplicationTests - 这是一行 Warn 级别日志
+2026-06-17 18:14:11.205 [main] ERROR com.alex.weblog.web.WeblogWebApplicationTests - 这是一行 Error 级别日志
+2026-06-17 18:14:11.205 [main] INFO  com.alex.weblog.web.WeblogWebApplicationTests - 这是一行带有占位符日志，作者：犬小哈
