@@ -8,7 +8,7 @@
     <!-- 自定义日志输出路径，以及日志名称前缀 -->
     <property name="LOG_FILE" value="D:\\IDEA_Projects\\weblog\\logs\\${appName}.%d{yyyy-MM-dd}"/>
     <property name="FILE_LOG_PATTERN" value="[TraceId: %X{traceId}] %d{yyyy-MM-dd HH:mm:ss.SSS} [%thread] %-5level %logger{50} - %msg%n"/>
-    <!--<property name="CONSOLE_LOG_PATTERN" value="${FILE_LOG_PATTERN}"/>-->
+<!--    <property name="CONSOLE_LOG_PATTERN" value="${FILE_LOG_PATTERN}"/>-->
 
     <!-- 按照每天生成日志文件 -->
     <appender name="FILE" class="ch.qos.logback.core.rolling.RollingFileAppender">

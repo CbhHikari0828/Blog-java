@@ -6,7 +6,7 @@ import org.springframework.context.annotation.ComponentScan;
 import org.springframework.stereotype.Component;
 
 @SpringBootApplication
-@ComponentScan({"com.alex.weblog.*"})
+@ComponentScan({"com.alex.weblog"})
 public class WeblogWebApplication {
 
     public static void main(String[] args) {
